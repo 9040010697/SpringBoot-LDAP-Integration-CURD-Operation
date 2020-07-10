@@ -1,0 +1,10 @@
+dn: dc=ldap,dc=com
+objectclass: top
+objectclass: domain
+objectclass: extensibleObject
+dc: ldap
+
+dn: ou=person,dc=ldap,dc=com
+objectclass: top
+objectclass: organizationalUnit
+ou: person
